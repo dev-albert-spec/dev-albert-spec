@@ -7,4 +7,4 @@
  - Habilidades que me permiten pagar la facturas: Java, PLSQL, Primefaces, JSF, javascript, SQL
  - Aprendiendo: Angular, VueJs, Python, java 11, 17
 
-Tengo otro github alternativo: https://github.com/aybramadues/ donde tengo fragmentos de codig con problemas que me ha tocado resolver y que pueda servirle a alguien más.
+Tengo otro github alternativo: [https://github.com/aybramadues](https://github.com/aybramadeus/)/ donde tengo fragmentos de codig con problemas que me ha tocado resolver y que pueda servirle a alguien más.
