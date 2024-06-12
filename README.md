@@ -1,8 +1,9 @@
- - **En la mañana**: Zombie Corporativo y Empleado 
- - **En la tarde**: Zombie Corporativo, Empleado y algo más.
- - **DE NOCHE**: Zombie Corporativo además tratar hacer tareas en 4 horas que me quedan. 
+ - **En la mañana**: Empleado ejerciendo de Desarrollador de Software con +15 años picando codigo.
+ - **En la tarde**: Empleado tratando de ser Desarrollador de Software, chats salvajes en MS Teams y los emails, estudiante de Maestria.
+ - **DE NOCHE**: Vivir, estudiar sobre tecnologias (Cobol, Spring Boot 3.3.0, Java 17/21, temas de Artquitectura de Software).
  - **DE MADRUGADA**: Zombie
- - **POR DIVERSION**: prompts IA
- - **Profesión**: Taquero programador   
- - Habilidades: Java, PLSQL, Primefaces, JSF, javascript, SQL, Angular JS, Angular 10, Python
- - Mejora continua: Angular 17, java 11, 17
+ - **POR DIVERSION**: Lo que se deje con el tiempo que me quede o energia.
+ - **Profesión**: ***************   
+ - Habilidades: Java, PLSQL, Primefaces, JSF, javascript, SQL, Angular JS, Angular 10, Python [más información en mi CV]
+ - Mejora continua: Siempre.
+ - Autodidacta, me busco la vida solo.
